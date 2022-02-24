@@ -8,3 +8,4 @@ D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.csproj.GenerateRe
 D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.csproj.CoreCompileInputs.cache
 D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.exe
 D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.pdb
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.Table.resources

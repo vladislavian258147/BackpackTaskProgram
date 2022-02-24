@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace BackpacForm
 {
+
     public partial class Form1 : Form
     {
         public Form1() {
@@ -120,6 +121,16 @@ namespace BackpacForm
                 ShowItems(items);
             }
             else MessageBox.Show("Список предметов пуст!");
+        }
+
+        Table table;
+        private void button3_Click(object sender, EventArgs e)
+        {     
+            if (table == null || table.IsDisposed)  
+            { 
+                table = new Table();  
+                table.Show();
+            }
         }
     }
 }
