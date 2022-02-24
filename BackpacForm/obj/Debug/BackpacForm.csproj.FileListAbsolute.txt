@@ -1,0 +1,10 @@
+D:\C++ SDK\repos\BackpacForm\BackpacForm\bin\Debug\BackpacForm.exe.config
+D:\C++ SDK\repos\BackpacForm\BackpacForm\bin\Debug\BackpacForm.exe
+D:\C++ SDK\repos\BackpacForm\BackpacForm\bin\Debug\BackpacForm.pdb
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.csproj.AssemblyReference.cache
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.Form1.resources
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.Properties.Resources.resources
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.csproj.GenerateResource.cache
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.csproj.CoreCompileInputs.cache
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.exe
+D:\C++ SDK\repos\BackpacForm\BackpacForm\obj\Debug\BackpacForm.pdb
